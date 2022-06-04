@@ -83,8 +83,8 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 
 ```json
 {
-  "short_name": "RMX",
-  "name": "CyberPunks REMIX"
+  "short_name": "GE",
+  "name": "GOBLIN EGGS"
 }
 ```
 
